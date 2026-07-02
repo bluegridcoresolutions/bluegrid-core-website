@@ -797,7 +797,7 @@ export default function App() {
                 </div>
                 <div>
                   <div className="text-[10px] text-muted-foreground mb-0.5 uppercase tracking-wider" style={{ fontFamily: "'JetBrains Mono', monospace" }}>Website</div>
-                  <div className="text-sm text-muted-foreground">Coming soon</div>
+                  <div className="text-sm text-muted-foreground">bluegridcoresolutions.co.za</div>
                 </div>
               </div>
             </div>
