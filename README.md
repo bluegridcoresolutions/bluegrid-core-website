@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+
+  # Company Overview Page
+
+  This is a code bundle for Company Overview Page. The original project is available at https://www.figma.com/design/dIbqmc3XISazjBF4j2XH1E/Company-Overview-Page.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
+=======
 # BlueGrid Core Solutions
 
 The parent holding company for BlueGrid's technology and services portfolio.
@@ -35,3 +48,4 @@ To deliver cutting-edge technology solutions that power businesses forward throu
 ---
 
 © 2026 BlueGrid Core Solutions. All rights reserved.
+>>>>>>> 39ff17753831f67e4ebd54a7b0652cf8db77ef69
